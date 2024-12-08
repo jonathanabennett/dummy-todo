@@ -1,6 +1,6 @@
 (ns todo.config
   (:require
-   [areo.core :as areo]
+   [aero.core :as aero]
    [clojure.java.io :as io]))
 
 (defn reqd-config
